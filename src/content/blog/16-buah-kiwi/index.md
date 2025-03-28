@@ -1,7 +1,7 @@
 ---
 title: "Buah Kiwi: Manfaat Kesehatan dan Cara Menikmatinya"
 description: "Buah kiwi merupakan salah satu buah yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan. Berasal dari Tiongkok, buah kiwi kini telah menjadi populer di seluruh dunia karena rasanya yang segar dan manfaat kesehatannya yang luar biasa."
-date: "2025-03-28"
+date: "2025-03-29"
 tags:
   - Buah kiwi
   - Kesehatan
